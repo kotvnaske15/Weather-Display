@@ -207,4 +207,4 @@ Weather Display is offered as a full free version with all features and updates 
 Ready to take your weather monitoring to the next level? Download Weather Display now and experience the full power of your weather station!
 
 ---
-**Last updated:** 2026-10-28 22:11:47 UTC
+**Last updated:** 2026-10-29 02:05:52 UTC
